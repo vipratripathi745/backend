@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "jacascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "VIPRA",  
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "nodemon": "3.1.14"
+  }
+}
